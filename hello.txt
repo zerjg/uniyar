@@ -1,3 +1,4 @@
 Hello, world!
 some text
 new line
+some text
